@@ -1,0 +1,6 @@
+﻿  6.3 rec.cpp
+E:\унік\Алгоритмізація і програмування\lab6\6.3 rec\6.3 rec\6.3 rec.cpp(75): warning C4715: 'first_pair': not all control paths return a value
+E:\унік\Алгоритмізація і програмування\lab6\6.3 rec\6.3 rec\6.3 rec.cpp(90): warning C4715: 'max': not all control paths return a value
+E:\унік\Алгоритмізація і програмування\lab6\6.3 rec\6.3 rec\6.3 rec.cpp(22): warning C4715: 'first_pair0<int>': not all control paths return a value
+E:\унік\Алгоритмізація і програмування\lab6\6.3 rec\6.3 rec\6.3 rec.cpp(38): warning C4715: 'max0<int>': not all control paths return a value
+  6.3 rec.vcxproj -> E:\унік\Алгоритмізація і програмування\lab6\6.3 rec\Debug\6.3 rec.exe
